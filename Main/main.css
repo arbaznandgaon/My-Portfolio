@@ -1,5 +1,6 @@
 .logo {
     animation: slideRight 1s ease forwards;
+    
 }
 .nav {
     animation: slideTop 1s ease forwards;
