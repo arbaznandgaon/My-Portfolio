@@ -1,5 +1,5 @@
 // console.log("hey")
-var typed  = new Typed(".multiple-text", {
+var typed  = new Typed(".text", {
     strings:["Software Engineer", "FrontEnd Developer"],
     typeSpeed:100,
     backSpeed:100,
